@@ -21,5 +21,19 @@ same type.</a></li>
 of a general identifier.[Task]</li>
 <li><a href="https://github.com/bineethkumar/AP19110010396-CSE306L/blob/master/Week2-Lab-Exercise/input.txt">Click here for input given</a></li> 
 <li><a href="https://github.com/bineethkumar/AP19110010396-CSE306L/blob/master/Week2-Lab-Exercise/output.txt">Click here for output returned</a></li>
+<h2>Week-3</h2>
+Symbol table is an important data structure created and maintained by compilers in order to
+store information about the occurrence of various identifiers such as variable names, function
+names, objects, classes, interfaces, etc. Symbol table is used by both the analysis and the
+synthesis parts of a compiler. Symbol table can be implemented in one of the following ways:
 <ul>
+<li>Linear List</li>
+<li>Binary Search Tree</li>
+<li>Hash Table</li>
+<li>and other ways</li>
+</ul>
+In this lab session, you are required to analyse the various implementations. You need to write
+code for at least two ways of implementation. Test your code with different test cases. Submit
+a report of your analysis and executable code.  
+<a href="https://github.com/bineethkumar/AP19110010396-CSE306L/blob/master/Week3-Lab-Exercise">Click here for open files</a>
 </ol>
